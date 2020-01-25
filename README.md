@@ -28,7 +28,7 @@
 
 <p class="mb35">PSDtoWPService.net provides you simple,  powerful solutions to get your site up &amp; running in no time. We offer reliable and fast support, 100% customer satisfaction and money-back guarantee. Ready for a PSD to WordPress service!</p>
 
-<figure class="wp-block-image size-large"><img src="https://psdtowpservice.net/wp-content/uploads/2020/01/psdtowp-pricing-1024x762.png" alt="PSD to WP Pricing" class="wp-image-483"/></figure>
+<figure class="wp-block-image size-large"><a href="https://psdtowp.dev" target="_blank" rel="noreferrer noopener"><img src="https://psdtowpservice.net/wp-content/uploads/2020/01/psdtowp-pricing-1024x762.png" alt="PSD to WP Pricing" class="wp-image-483"/></a></figure>
 
 <p class="mb50">Convert PSD/XD to WordPress is our great service! Get your WordPress theme developed from the industry’s most experienced, talented, and fast coders. what are you waiting for? go and take a look around all of our services.</p>
 
